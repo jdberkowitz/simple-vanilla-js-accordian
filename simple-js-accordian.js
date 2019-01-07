@@ -1,7 +1,7 @@
 /*
 * @param clickSelector @type css class - the class of the item to be used as the accordian button
 * @param contentSelector @type css class - the class of the content to show when the selector is clicked.
-* @param classToToggle @type css class - the class to add or remove based upon the toggle. 
+* @param classToToggle @type css class - the class to toggle based upon the toggle. 
 * will add display:none to hide and display:block to show
 * Hides or shows teh next element sibling of the selected class
 */
